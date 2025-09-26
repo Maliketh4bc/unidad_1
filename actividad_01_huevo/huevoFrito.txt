@@ -1,0 +1,39 @@
+INICIO
+
+1. Tomar una sartén
+2. Verificar que la sartén está limpia
+  SI (sartén sucia)
+    lavar sartén
+  FIN SI
+3. Colocar sartén en vitro
+4. Tomar aceite
+5. Echar aceite
+6. Esperar hasta 3cm de nivel de aceite
+  MIENTRAS (nivel aceite 3cm altura)
+    observar nivel aceite
+  FIN MIENTRAS
+7. Dejar de echar aceite
+8. Encender vitro
+9. Poner potencia media-alta
+10. Tomar huevo
+11. Cascar huevo
+12. Echar huevo
+13. Abrir basura
+14. Tirar cáscara de huevo
+15. Esperar a huevo bien hecho
+  MIENTRAS (huevo no esté bien hecho)
+    Coger espátula
+    Recoger un poco de aceite
+    Volcar encima del huevo
+  FIN MIENTRAS
+16. Coger plato vacío
+17. Verificar que está limpio
+  SI(plato sucio)
+    lavar plato
+  FIN SI
+18. Coger espátula
+19. Recoger huevo
+20. Servir en plato
+21. Salpimentar huevo
+
+FIN
